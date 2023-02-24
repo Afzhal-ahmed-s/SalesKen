@@ -1,2 +1,0 @@
-# SalesKen
-Coding assignment
